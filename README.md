@@ -1,6 +1,11 @@
 # COVID-19 API
 This repository is a practice as a way to try out new things
 
+```
+CORS error, for some reason the project worked for two/three days and now it throws this error.
+I will fix it when I have some free time, sorry!
+```
+
 # Tools 
 ```
 * HTML5
